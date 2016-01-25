@@ -1,4 +1,3 @@
-# linux_cmdexec
 Same time commands execution on multiple servers via ssh
 ==================
 
